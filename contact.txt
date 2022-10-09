@@ -1,0 +1,139 @@
+ /* .contact {
+        padding: 80px 0px;
+        background-color: #616161;
+        color: #000000;
+
+    }
+
+    .contact .content {
+        display: flex;
+    }
+
+    .contact .content .box {
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 15px;
+    }
+
+    .contact .content .form input,
+    .contact .content .form textarea {
+        height: 45px;
+        width: 100%;
+        padding: 6px 12px;
+        margin-bottom: 25px;
+        background-color: transparent;
+        border: 1px solid #ffffffff;
+        color: black;
+    }
+
+    .contact .content .form input:focus,
+    .contact .content .form textarea:focus {
+        outline: none;
+
+    }
+
+    .contact .content .form input::placeholder,
+    .contact .content .form textarea::placeholder {
+        color: black;
+    }
+
+    .contact .content .form textarea {
+        height: 100px;
+    }
+
+    .contact .content .form button {
+        border: none;
+        outline: none;
+        box-shadow: none;
+        height: 45px;
+        padding: 0px 30px;
+        border: 1px solid transparent;
+        background-color: #66fcf1;
+        color: black;
+        font-size: 15px;
+        transition: all 0.5s ease;
+        cursor: pointer;
+    }
+
+    .contact .content .form button:hover {
+        background-color: transparent;
+        color: black;
+        border-color: #ffffffff;
+    }
+
+    .contact .content .text h2 {
+        font-size: 30px;
+        font-weight: 500;
+        color: #66fcf1;
+        padding: 0px 0px 20px;
+
+    }
+
+    .contact .content .text p {
+        font-size: 15px;
+        line-height: 20px;
+        color: black;
+        margin: 0;
+        padding: 0px 0px 30px;
+    }
+
+    .contact .content .text .info ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .contact .content .text .info li {
+        display: block;
+        margin-bottom: 15px;
+        color: black;
+        font-size: 15px;
+        letter-spacing: 2px;
+        position: relative;
+        padding-left: 40px;
+    }
+
+    .contact .content .text .info li span {
+        display: inline-block;
+        position: absolute;
+        left: 0px;
+        top: 5px;
+        font-size: 20px;
+        color: #66fcf1;
+    }
+
+    .contact .content .text .social {
+        padding-top: 30px;
+    }
+
+    .contact .content .text .social a {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        text-align: center;
+        background-color: #66fcf1;
+        text-decoration: none;
+        display: inline-block;
+        margin-right: 10px;
+        transition: all 0.5s ease;
+        border: 1px solid transparent;
+    }
+
+    .contact .content .text .social a:hover {
+        background-color: transparent;
+        border-color: #ffffffff;
+    }
+
+    .contact .content .text .social a span {
+        color: #ffffffff;
+        font-size: 20px;
+    }
+
+    .contact .content .text .copy {
+        border-top: 1px solid #33333333;
+        margin-top: 30px;
+        padding-top: 20px;
+        color: #c5c5c5;
+        font-size: 15px;
+
+    } */
